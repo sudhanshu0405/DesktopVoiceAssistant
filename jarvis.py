@@ -41,7 +41,7 @@ def takeCommand():
         query=r.recognize_google(audio)
         print(f"User said: {query}\n")
     except Exception as e:
-        print("I could not get it. Say that again please...")   
+        print("I could not get it. Say that again please...or contact my boss Sudhanshu Sir")   
         return "None" 
     return query   
 
