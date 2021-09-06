@@ -3,8 +3,6 @@ Have you ever wondered how cool it would be to have your own A.I. assistant? Ima
 
 What can this A.I. assistant do for you?
 
--> It can send emails on your behalf.
-
 -> It can play music for you.
 
 -> It can do Wikipedia searches for you.
